@@ -1,52 +1,52 @@
 [
-	"How can I fix errors while uploading feed file?",
-	"How can I fix my Feed Processing errors?",
-	"I am getting errors when attempting a purge; why, and how do I fix it?",
-	"How can I figure out what's wrong with my feed upload?",
-	"I am receiving errors when attempting to upload shipping override files; how do I get this fixed?",
-	"Why was my batch cancelled?",
-	"How do I upload a feed for existing catalog items?",
-	"How do I upload a feed to categorize and create new catalog items?",
-	"How do I remove/delete specific listings from inventory?",
-	"How do I purge and Replace all my listings?",
-	"Which BTG file should I use?",
-	"I uploaded a file with incorrect information; how do I fix this?",
-	"Why can't I upload my items through API?",
-	"How can I merge listings using feeds?",
-	"How do I download and read the feed Processing Summary?",
-	"How do I change my listing category using feeds?",
-	"How can I make bulk updates to shipping weight using feeds?",
-	"How do I convert my listing to FBA in bulk?",
-	"When I do a bulk update, how do I also refresh my images?",
-	"How do I bulk activate listings?",
-	"How do I change the condition on an existing listing/variation?",
-	"When I upload updates, how do I ensure that it replaces inventory, rather than making new entries?",
-	"How do I perform partial updates?",
-	"How do I update the price and quantity of inventory in bulk?",
-	"How can I confirm whether my feed uploaded successfully?",
-	"How long does it take for a feed upload to process?",
-	"Why aren't the updates I submitted in a feed appearing in my inventory?",
-	"What do I do if I have a product attribute that doesn't have a corresponding field in the template?",
-	"Which material type should I use?",
-	"How do I use the Inventory Loader template?",
-	"How do I use the shipping confirmation template?",
-	"How do I use the shipping override template?",
-	"How do I know which feed template to use?",
-	"How do I download a report on listings by category?",
-	"I can't download some of my reports; why, and how do I get it fixed?",
-	"My report is missing data; why, and how do I correct it?",
-	"How can I fix feed upload errors related to UPC?",
-	"I am attempting to upload a file with items that have UPC exemptions, but it is not working; why, and how do I fix it?",
-	"I am getting errors setting up parent-child relationships; how do I fix this?",
-	"How can I create a variation relationship using feeds (i.e. parent/child)?",
-	"How do I add variation information if a template doesn't have a variation field ?",
-	"Why can't I use this variation theme on this category?",
-	"How do I reassign a child item to a new parent?",
-	"How do I add child ASINs to existing variations that I did not create?",
-	"How can I find all child ASINs associated with a specific parent?",
-	"How can I get access to XML feeds?",
-	"How do I change the xml order report schedule?",
-	"How do I use XML feeds?",
-	"How do I update listings in Amazon brand registry?",
+	"How can I fix errors while uploading feed file?";
+	"How can I fix my Feed Processing errors?";
+	"I am getting errors when attempting a purge; why; and how do I fix it?";
+	"How can I figure out what's wrong with my feed upload?";
+	"I am receiving errors when attempting to upload shipping override files; how do I get this fixed?";
+	"Why was my batch cancelled?";
+	"How do I upload a feed for existing catalog items?";
+	"How do I upload a feed to categorize and create new catalog items?";
+	"How do I remove/delete specific listings from inventory?";
+	"How do I purge and Replace all my listings?";
+	"Which BTG file should I use?";
+	"I uploaded a file with incorrect information; how do I fix this?";
+	"Why can't I upload my items through API?";
+	"How can I merge listings using feeds?";
+	"How do I download and read the feed Processing Summary?";
+	"How do I change my listing category using feeds?";
+	"How can I make bulk updates to shipping weight using feeds?";
+	"How do I convert my listing to FBA in bulk?";
+	"When I do a bulk update; how do I also refresh my images?";
+	"How do I bulk activate listings?";
+	"How do I change the condition on an existing listing/variation?";
+	"When I upload updates; how do I ensure that it replaces inventory; rather than making new entries?";
+	"How do I perform partial updates?";
+	"How do I update the price and quantity of inventory in bulk?";
+	"How can I confirm whether my feed uploaded successfully?";
+	"How long does it take for a feed upload to process?";
+	"Why aren't the updates I submitted in a feed appearing in my inventory?";
+	"What do I do if I have a product attribute that doesn't have a corresponding field in the template?";
+	"Which material type should I use?";
+	"How do I use the Inventory Loader template?";
+	"How do I use the shipping confirmation template?";
+	"How do I use the shipping override template?";
+	"How do I know which feed template to use?";
+	"How do I download a report on listings by category?";
+	"I can't download some of my reports; why; and how do I get it fixed?";
+	"My report is missing data; why; and how do I correct it?";
+	"How can I fix feed upload errors related to UPC?";
+	"I am attempting to upload a file with items that have UPC exemptions; but it is not working; why; and how do I fix it?";
+	"I am getting errors setting up parent-child relationships; how do I fix this?";
+	"How can I create a variation relationship using feeds (i.e. parent/child)?";
+	"How do I add variation information if a template doesn't have a variation field ?";
+	"Why can't I use this variation theme on this category?";
+	"How do I reassign a child item to a new parent?";
+	"How do I add child ASINs to existing variations that I did not create?";
+	"How can I find all child ASINs associated with a specific parent?";
+	"How can I get access to XML feeds?";
+	"How do I change the xml order report schedule?";
+	"How do I use XML feeds?";
+	"How do I update listings in Amazon brand registry?";
 	"How do I fix Amazon Bran Registry upload errors?"
 ]
